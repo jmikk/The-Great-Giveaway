@@ -2,6 +2,9 @@ Step 0: Download all of the files in this github and put them in a folder.
 
 Step 1: List all of the puppets you want to check for possabile donations in the names_list.csv one per line (right over my exmaple ones)
 
+Step 1.5: if you do not have Excel use google sheets put your puppets in one per cell in column A.  After that press File -> Comma-separated values (.csv, current sheet)
+Rename the file names_list.csv this will overwrite the old one and that is okay.  
+
 Step 2: Click and run The Great Giveaway.exe
 
 Step 3: Type in your nations name, This program will use the API so make sure you are not running any other Nationstates like programs (got issues, auto log in, etc)
