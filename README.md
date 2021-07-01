@@ -1,3 +1,5 @@
+Step 0: Download all of the files in this github and put them in a folder. 
+
 Step 1: List all of the puppets you want to check for possabile donations in the names_list.csv one per line (right over my exmaple ones)
 
 Step 2: Click and run The Great Giveaway.exe
